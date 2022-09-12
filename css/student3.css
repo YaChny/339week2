@@ -1,0 +1,53 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+    
+  
+ }
+
+ #main{
+    margin: 20px;
+
+ }
+
+ ul li{
+    display: inline-block;
+    margin-left: 25px;
+    list-style-type: upper-roman;
+
+   
+    background-color:lightblue;
+    
+    text-align:center;
+    border: 5px solid darkslateblue;
+    border-radius: 30px;
+    padding: 20px;
+    width: 150px;
+    height: 20px;
+    
+ }
+
+ main img{
+    width: 24%;
+    padding: 12;
+    border: 5px dashed pink;
+    display: inline;
+    
+ }
+
+ p{
+    color:darkslateblue;
+    background-color:lavender;
+    font-weight: bold;
+    border: 2px solid black;
+
+ }
+
+
+ 
